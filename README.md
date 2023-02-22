@@ -1,1 +1,1 @@
-# batharqs
+# Projeto Spring Batch para leitura de alguns arquivos no bucket S3, concatenação destes arquivos e inclusão em uma base de dados
